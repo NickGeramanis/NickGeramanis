@@ -10,5 +10,5 @@ My name is Nick Geramanis and I am an electrical & Computer Engineer.
 
 ## Contact
 - :link: https://www.linkedin.com/in/nikolaos-geramanis
-- - :link: https://nickgeramanis.github.io/
+- :link: https://nickgeramanis.github.io/
 - :email: nickgeramanis@gmail.com
