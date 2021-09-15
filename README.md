@@ -1,6 +1,6 @@
 # :wave: Hi
 
-My name is Nick Geramanis and I am an electrical & Computer Engineer.
+My name is Nick Geramanis and I am an Electrical & Computer Engineer.
 
 ## Projects
 
